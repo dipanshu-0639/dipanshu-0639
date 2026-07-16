@@ -62,22 +62,6 @@ https://github.com/dipanshu-0639/insurance_fraud_detection
 ### Tools & Cloud
 <p><img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode"/></p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dipanshu-0639&show_icons=true&theme=nord"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshu-0639&layout=compact&theme=nord"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dipanshu-0639&theme=nord"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dipanshu-0639&theme=nord&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
 
 ## 📈 Contribution Graph
 
